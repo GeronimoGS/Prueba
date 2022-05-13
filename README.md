@@ -9,5 +9,3 @@ cambio gero
 hola hola
 
 cambio para pull
-
-cambio otra vez la main
