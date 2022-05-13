@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #efefef;
+  font-family: "Montserrat";
+}
+
+header {
+  background-color: #333;
+  height: 50px;
+  border-bottom: solid 1px gray;
+}
+h1 {
+  float: left;
+  margin: 5px 0 0 30px;
+  padding: 0;
+}
+.nav {
+  float: right;
+  margin-top: 15px;
+}
+.nav a {
+  color: #f2f2f2;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav:link {
+  color: black;
+}
+.nav-item:visited {
+  color: gray;
+}
+.nav-item:hover {
+  background-color: #ddd;
+  color: black;
+  cursor: pointer;
+}
+.nav-item:active {
+  background-color: #ada96c;
+  color: white;
+}
