@@ -9,4 +9,3 @@ cambio gero
 hola hola
 
 cambio para pull
-hola como estas?
